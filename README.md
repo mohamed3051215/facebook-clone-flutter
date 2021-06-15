@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](flutter_01.png)
