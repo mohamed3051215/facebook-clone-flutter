@@ -3,11 +3,7 @@
 A new Flutter project.
 
 ![Alt Text](flutter_01.png)
-Line one\
-\
-\
-\
-Line two
+### see also
 ![Alt Text](flutter_02.png)
 Line one\
 \
