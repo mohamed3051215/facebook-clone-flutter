@@ -3,15 +3,17 @@
 A new Flutter project.
 
 ![Alt Text](flutter_01.png)
-text1 text1
-`(space)`(space)(space)
-`(space)`(space)(space)
-text2 text2
+Line one\
+\
+\
+\
+Line two
 ![Alt Text](flutter_02.png)
-text1 text1
-`(space)`(space)(space)
-`(space)`(space)(space)
-text2 text2
+Line one\
+\
+\
+\
+Line two
 ![Alt Text](flutter_03.png)
 &nbsp;&nbsp;
 ![Alt Text](flutter_04.png)
